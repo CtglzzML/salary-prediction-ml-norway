@@ -1,7 +1,7 @@
 # Salary Prediction in Norway  
 
 An end-to-end machine learning workflow for predicting developer salaries in Norway.  
-This project was developed as the final exam for the Applied Machine Learning program at Noroff (2025).  
+This project was developed between June - October 2025.  
 
 ---
 
